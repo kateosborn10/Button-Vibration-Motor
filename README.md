@@ -4,7 +4,7 @@ Check out our instructables page for our appplication of this extendable button.
 https://www.instructables.com/member/CU_Student_CraftLab/
 
 # Contributors
-Kathryn Osborn 
-Christian Hill
-Chelsea Bulcher 
+Kathryn Osborn, 
+Christian Hill,
+Chelsea Bulcher, and 
 Lexi Lai 
